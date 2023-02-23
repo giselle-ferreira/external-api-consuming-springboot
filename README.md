@@ -1,5 +1,5 @@
 >## About
-Consuming external API with RestTemplate in Spring Boot.
+Consuming external API (ViaCep) with RestTemplate in Spring Boot.
 
 <br/>
 
