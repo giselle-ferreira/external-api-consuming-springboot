@@ -3,6 +3,15 @@ Consuming external API with RestTemplate in Spring Boot.
 
 <br/>
 
+>## Demonstration
+```js
+GET / consulta-cep/{cep}
+```
+
+<img src="https://i.postimg.cc/HLRRKx0n/image.png">
+
+<br/>
+
 >## Tools
 
 <p align="left">
